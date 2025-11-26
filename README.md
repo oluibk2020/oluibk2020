@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Olugbenga Taiwo, a fullstack software engineer specializing in backend development. I have extensive experience in developing and maintaining web applications using modern technologies such as React.js, Node.js, PostgreSQL, and Prisma ORM. Adept at collaborating with cross-functional teams to deliver scalable, high-quality products. Proficient in leveraging industry best practices and cutting-edge frameworks to build robust, user-friendly solutions. Here's an overview of my tech stacks:
+Hi there! 👋 I'm Olugbenga Taiwo, a fullstack software engineer specializing in backend development. I have extensive experience in developing and maintaining web and mobile applications using modern technologies such as NestJS, TypeORM, React.js,React Native, Node.js, PostgreSQL, and Prisma ORM. Adept at collaborating with cross-functional teams to deliver scalable, high-quality products. Proficient in leveraging industry best practices and cutting-edge frameworks to build robust, user-friendly solutions. Here's an overview of my tech stacks:
 
 ## Front-End
 
@@ -21,6 +21,7 @@ Hi there! 👋 I'm Olugbenga Taiwo, a fullstack software engineer specializing i
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40" height="40"> **Framework:** Node.js with Express
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript Logo" width="40" height="40"> **Language:** Typescript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="40" height="40"> **Language:** JavaScript
+- - <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="NestJS Logo" width="40" height="40"> **Framework:** NestJS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="40" height="40"> **Containerization:** Docker
 
 ## Database
